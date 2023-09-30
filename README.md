@@ -1,7 +1,7 @@
 # EnergyTransitionKorea
 ## Repository Notice
-#### Dataset and Analysis Code for Energy Trasition in South Korea
-Thank you for visiting this repository. Here, we will be hosting the datasets and analysis code used in our research for the paper titled "Energy Trasition in South Korea."
+#### Dataset and Analysis Code
+Thank you for visiting this repository. Here, we will be hosting the datasets and analysis code used in our research for the paper titled "Voices of Transitions: Korea’s Online News Media and User Comments on the Energy Transition."
 
 As of now, the paper is under review. In the interest of academic transparency and reproducibility, we are committed to sharing all related materials. Once the review process has begun, we will be updating this repository with the full dataset and associated analysis code.
 

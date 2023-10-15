@@ -18,3 +18,8 @@ Cleaning News Articles and Comments (with history) / Emotion and News Article Cl
 Exploratory Data Analysis (Basic Statistical Tests)
 * CatBoost.ipynb  
 Modeling with CatBoost and visualizing the results
+
+## Folder
+* data
+* plots
+* catboost_model

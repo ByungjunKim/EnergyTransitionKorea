@@ -13,7 +13,7 @@ Thank you for your interest in our research!
 
 ## Code
 * EDA.ipynb  
-Exploratory Data Analysis (Basic Statistical Tests)
+Exploratory Data Analysis (Statistical Tests)
 * CatBoost.ipynb  
 Modeling with CatBoost and visualizing the results
 

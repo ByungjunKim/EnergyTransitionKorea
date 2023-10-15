@@ -12,6 +12,8 @@ Should you have any questions or require further information in the meantime, pl
 Thank you for your interest in our research!
 
 ## Code
+* UserCluster.ipynb  
+User Profile-based K-means Clustering
 * EDA.ipynb  
 Exploratory Data Analysis (Statistical Tests)
 * CatBoost.ipynb  

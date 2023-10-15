@@ -20,6 +20,9 @@ Exploratory Data Analysis (Basic Statistical Tests)
 Modeling with CatBoost and visualizing the results
 
 ## Folder
-* data
-* plots
-* catboost_model
+* data  
+The data used in the research.
+* plots  
+Result plots generated from the CatBoost modeling.
+* catboost_model  
+CatBoost Model file.

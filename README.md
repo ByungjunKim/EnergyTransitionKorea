@@ -12,8 +12,6 @@ Should you have any questions or require further information in the meantime, pl
 Thank you for your interest in our research!
 
 ## Code
-* Preprocess.ipynb  
-Cleaning News Articles and Comments (with history) / Emotion and News Article Classification
 * EDA.ipynb  
 Exploratory Data Analysis (Basic Statistical Tests)
 * CatBoost.ipynb  

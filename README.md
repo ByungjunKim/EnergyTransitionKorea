@@ -10,3 +10,8 @@ We encourage researchers and readers to revisit this repository after the initia
 Should you have any questions or require further information in the meantime, please do not hesitate to reach out.
 
 Thank you for your interest in our research!
+
+## Code
+* Preprocess.ipynb
+* EDA.ipynb
+* CatBoost.ipynb

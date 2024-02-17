@@ -1,15 +1,15 @@
 # EnergyTransitionKorea
 ## Repository Notice
 #### Dataset and Analysis Code
-Thank you for visiting this repository. Here, we will be hosting the datasets and analysis code used in our research for the paper titled "Voices of Transitions: Korea’s Online News Media and User Comments on the Energy Transition."
+Thank you for visiting our repository. We're excited to share that our paper, "Voices of Transitions: Korea’s Online News Media and User Comments on the Energy Transition," has been published in Energy Policy, volume 187, article 114020, and is available at https://doi.org/10.1016/j.enpol.2024.114020.
 
-As of now, the paper is under review. In the interest of academic transparency and reproducibility, we are committed to sharing all related materials. Once the review process has begun, we will be updating this repository with the full dataset and associated analysis code.
+This repository hosts the datasets and analysis code utilized in our research. With the publication of our paper, we are pleased to provide full access to all related materials, supporting academic transparency and reproducibility.
 
-We encourage researchers and readers to revisit this repository after the initiation of the review for comprehensive access to our materials. Your patience and understanding are greatly appreciated.
+Researchers and readers can now explore the datasets and code to understand the methodologies behind our findings. Our analysis sheds light on the public's response to the energy transition issue in Korea, as seen through online news media comments, offering valuable insights and policy recommendations.
 
-Should you have any questions or require further information in the meantime, please do not hesitate to reach out.
+For any questions or additional information, feel free to reach out.
 
-Thank you for your interest in our research!
+Thank you for your interest in our work, and we hope you find the resources helpful in your own research!
 
 ## Code
 * UserCluster.ipynb  
